@@ -4,7 +4,7 @@
 # Automatically add subdirectories from ~/opt to the user's path.
 
 function push_path() {
-    echo $PATH | grep -q :$1 || export PATH=$1:$PATH
+    echo $PATH | grep -q "\(^$1:\|:$1:\|:$1$\)" || export PATH=$1:$PATH
 }
 
 if [ -d ~/opt ]
