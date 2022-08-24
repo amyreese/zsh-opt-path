@@ -1,4 +1,4 @@
-# Copyright 2015 John Reese
+# Copyright 2022 Amethyst Reese
 # Licensed under the MIT license
 #
 # Automatically add subdirectories from ~/opt to the user's path.

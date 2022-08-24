@@ -15,4 +15,4 @@ explicitly listed in your `.zshrc`:
 
 ## copyright
 
-zsh-opt-path is copyright 2015 John Reese and licensed under the MIT license.
+zsh-opt-path is copyright 2022 Amethyst Reese and licensed under the MIT license.
